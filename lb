@@ -2,10 +2,10 @@
 
 # Set your personal data here:
 rssfile="rss.xml"
-blogfile="2018.html"
-website="https://lukesmith.xyz/"
+blogfile="index.html"
+website="http://robert.mabbs.me/"
 stylesheet="..\/style.css" # Characters should be escaped for this variable.
-author="<a href=\"$website\">Luke Smith<\/a>"
+author="<a href=\"$website\">Robert Mabbs<\/a>"
 dir=$(pwd)
 
 # See other variables defined later, such as `header` and `webdate` for more customizability.
