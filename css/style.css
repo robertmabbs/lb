@@ -1,2 +1,12 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
 
+.f {
+display: flex;
+}
 
+.sb {
+justify-content: space-between;
+}
