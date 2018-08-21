@@ -12,6 +12,98 @@
 <!-- LB -->
 
 <item>
+<title>Vim</title>
+<guid>http://robert.mabbs.me/index.html#vim</guid>
+<pubDate>Tue, 21 Aug 2018 05:50:34 +0100</pubDate>
+<description><![CDATA[
+<h2 id='vim'>Vim</h2>
+<small>[<a href="index.html#vim">link</a>&mdash;<a href="blog/vim.html">standalone</a>]</small>
+
+<p>Switching from using PhpStorm to Vim is a huge step but, I'm willing to give it a go. I have building this website in Vim with the help of google to help me with a few Vim commands. I found few online resources that suggest to replace ESC key for Caps key this way you wouldn't be going all the way to the ESC key to switch modes.</p>
+
+<p><a href="https://faq.i3wm.org/question/1496/change-caps-lock-to-esc-in-i3.1.html">https://faq.i3wm.org/question/1496/change-caps-lock-to-esc-in-i3.1.html</a>
+</p>
+
+<p>A few things for me to look into</p>
+<ul>
+    <li>Bracket completion for html and php &lt;p&gt;&lt;/p&gt;.</li>
+    <li>Language completion for html and php.</li>
+    <li>Alias to change to frequent used directories.</li>
+    <li>Learn more Vim commands to help me move around better.</li>
+</ul>
+
+<img src="./images/screenshots/2018-08-21-054751_1304x684_scrot.png">
+]]></description>
+</item>
+
+
+<item>
+<title>Tweaking .vimrc</title>
+<guid>http://robert.mabbs.me/index.html#tweaking-.vimrc</guid>
+<pubDate>Sun, 19 Aug 2018 11:52:48 +0100</pubDate>
+<description><![CDATA[
+<h2 id='tweaking-.vimrc'>Tweaking .vimrc</h2>
+<small>[<a href="index.html#tweaking-.vimrc">link</a>&mdash;<a href="blog/tweaking-.vimrc.html">standalone</a>]</small>
+
+<p>First week on Arch and i3 done, I have added a few settings for Vim to help me out.</p>
+  <ul>
+   <li>set nocompatible</li>
+   <li>syntax on</li>
+   <li>set encoding=utf-8</li>
+   <li>set number</li>
+   <li>set relativenumber</li>
+</ul>
+]]></description>
+</item>
+
+
+<item>
+<title>The Start of My Blog</title>
+<guid>http://robert.mabbs.me/index.html#the-start-of-my-blog</guid>
+<pubDate>Sun, 19 Aug 2018 11:51:10 +0100</pubDate>
+<description><![CDATA[
+<h2 id='the-start-of-my-blog'>The Start of My Blog</h2>
+<small>[<a href="index.html#the-start-of-my-blog">link</a>&mdash;<a href="blog/the-start-of-my-blog.html">standalone</a>]</small>
+
+<++>
+]]></description>
+</item>
+
+
+<item>
+<title>test post</title>
+<guid>http://robert.mabbs.me/index.html#test-post</guid>
+<pubDate>Sun, 19 Aug 2018 11:51:03 +0100</pubDate>
+<description><![CDATA[
+<h2 id='test-post'>test post</h2>
+<small>[<a href="index.html#test-post">link</a>&mdash;<a href="blog/test-post.html">standalone</a>]</small>
+
+<++>
+]]></description>
+</item>
+
+
+<item>
+<title></title>
+<guid>http://robert.mabbs.me/index.html#</guid>
+<pubDate>Sun, 19 Aug 2018 11:50:57 +0100</pubDate>
+<description><![CDATA[
+
+]]></description>
+</item>
+
+
+<item>
+<title></title>
+<guid>http://robert.mabbs.me/index.html#</guid>
+<pubDate>Sun, 19 Aug 2018 11:50:51 +0100</pubDate>
+<description><![CDATA[
+
+]]></description>
+</item>
+
+
+<item>
 <title>The Start</title>
 <guid>http://robert.mabbs.me/index.html#the-start</guid>
 <pubDate>Sun, 19 Aug 2018 07:02:34 +0100</pubDate>
